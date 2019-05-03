@@ -16,6 +16,14 @@ out image:
 
 ![image](https://github.com/yuchenxi2000/neural-style-transfer/raw/master/demo/pics/west-starry-origin.png)
 
+style image:
+
+![image](https://github.com/yuchenxi2000/neural-style-transfer/raw/master/demo/pics/candy-512.jpg)
+
+out image:
+
+![image](https://github.com/yuchenxi2000/neural-style-transfer/raw/master/demo/pics/west-candy.jpg)
+
 ## algorithm
 
 Vanilla algorithm in _A Neural Algorithm of Artistic Style_
